@@ -9,7 +9,7 @@
 
 # <p align="center"> كود تنصيب السورس ⌯︙
 
- # <p align="center" style="color:#cb3349" > ``git clone git clone https://github.com/C4TEAM/C4 ;cd C4;chmod +x install;./install``
+ # <p align="center" style="color:#cb3349" > ``git clone git clone https://github.com/mohammedc4/C4TEAM.git ;cd C4;chmod +x install;./install``
 
 # <p align="center"> بعد انتهاء عمليه تثبيت السورس ⌯︙
 
